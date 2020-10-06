@@ -3,7 +3,7 @@
   <img src="https://github.com/reginaldop/ifood-html-css/blob/master/images/logo.svg" width="150">
 <br>
 <br>
-iFood HTML CSS
+iFood HTML SCSS
 </h1>
 
 <p align="center">Recreating iFood HTML SCSS</p>
